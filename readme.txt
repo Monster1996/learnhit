@@ -3,4 +3,5 @@ Git is free software distributed under the GPL 1.
 asasasasasas
 git has a mytable index called stage.
 git has a mytable index called stage.
-git tracks changes.
+git tracks changes of files. 1111
+
